@@ -106,7 +106,7 @@ a:visited {
 
 .student-card {
   position: relative;
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  background-image: url("../assets/img/shana-moore.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -219,7 +219,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/banner-photo-placeholder.png");
+  background-image: url("../assets/img/shana-moore-cover.JPG");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -246,7 +246,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  background-image: url("../assets/img/shana-moore.JPG");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
