@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#michael-nolan-card {
+  background-image: url("../assets/img/michael-nolan.jpg");
+}
+
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
 }
@@ -219,7 +223,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/banner-photo-placeholder.png");
+  background-image: url("../assets/img/michael-nolan-cover.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -246,7 +250,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  background-image: url("../assets/img/michael-nolan.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
