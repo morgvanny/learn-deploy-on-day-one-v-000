@@ -137,6 +137,10 @@ a:visited {
   background-image: url("../assets/img/michael-nolan.jpg");
 }
 
+#joe-burgess-cover {
+  background-image: url("../assets/img/michael-nolan-cover.jpg");
+}
+
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
 }
