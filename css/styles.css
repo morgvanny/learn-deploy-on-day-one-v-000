@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#aaron-figueroa-cover{
+  background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
+}
+
+#aaron-figueroa-card{
+  background-image: url("../assets/img/IMG_1548.JPG");
+}
+
 #shana-moore-card {
   background-image: url("../assets/img/shana-moore.jpg");
 }
