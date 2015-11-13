@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#shana-moore-card {
+  background-image: url("../assets/img/shana-moore.jpg");
+}
+
+#shana-moore-cover {
+  background-image: url("../assets/img/shana-moore-cover.JPG");
+}
+
 #michael-nolan-card {
   background-image: url("../assets/img/michael-nolan.jpg");
 }
@@ -243,7 +251,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/michael-nolan-cover.jpg");
+  /*background-image: url("../assets/img/michael-nolan-cover.jpg");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -270,7 +278,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/michael-nolan.jpg");
+  /*background-image: url("../assets/img/michael-nolan.jpg");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
