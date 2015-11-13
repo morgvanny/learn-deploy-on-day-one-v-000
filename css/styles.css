@@ -106,7 +106,7 @@ a:visited {
 
 .student-card {
   position: relative;
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  /*background-image: url("../assets/img/profile-photo-placeholder.png");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -131,6 +131,30 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#aaron-figueroa-cover{
+  background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
+}
+
+#aaron-figueroa-card{
+  background-image: url("../assets/img/IMG_1548.JPG");
+}
+
+#shana-moore-card {
+  background-image: url("../assets/img/shana-moore.jpg");
+}
+
+#shana-moore-cover {
+  background-image: url("../assets/img/shana-moore-cover.JPG");
+}
+
+#michael-nolan-card {
+  background-image: url("../assets/img/michael-nolan.jpg");
+}
+
+#michael-nolan-cover {
+  background-image: url("../assets/img/michael-nolan-cover.jpg");
 }
 
 #joe-burgess-card {
@@ -163,6 +187,30 @@ a:visited {
 
 #diane-vu-card {
   background-image: url("../assets/img/diane-vu.jpg");
+}
+
+#bryony-delahoussaye-cover {
+  background-image: url(../assets/img/bryony-delahoussaye-cover.jpg);
+}
+
+#bryony-delahoussaye-card {
+  background-image: url(../assets/img/bryony-delahoussaye.jpg);
+}
+
+#frank-nowinski-card {
+  background-image: url("../assets/img/frank-nowinski.jpg");
+}
+
+#frank-nowinski-cover {
+  background-image: url("../assets/img/background.jpeg");
+}
+
+#phil-lai-cover {
+  background-image: url("../assets/img/phil-lai-cover.jpg");
+}
+
+#phil-lai-card {
+  background-image: url("../assets/img/phil-lai.jpg");
 }
 
 .view-profile-div {
@@ -219,7 +267,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/banner-photo-placeholder.png");
+  /*background-image: url("../assets/img/michael-nolan-cover.jpg");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -246,7 +294,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  /*background-image: url("../assets/img/michael-nolan.jpg");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
