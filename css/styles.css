@@ -197,6 +197,14 @@ a:visited {
   background-image: url("../assets/img/background.jpeg");
 }
 
+#phil-lai-cover {
+  background-image: url("../assets/img/phil-lai-cover.jpg");
+}
+
+#phil-lai-card {
+  background-image: url("../assets/img/phil-lai.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
