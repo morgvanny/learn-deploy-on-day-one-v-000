@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#morgan-vanyperen-card {
+  background-image: url("../assets/img/morgan-vanyperen.png");
+}
+
+#morgan-vanyperen-cover {
+  background-image: url("../assets/img/morgan-vanyperen-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
